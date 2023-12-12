@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-print('"Programming is nice')
+
+""" This program prints Hello, world!"""
+
+print('Hello, world!')
